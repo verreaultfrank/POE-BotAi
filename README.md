@@ -1,4 +1,4 @@
-# POE-BotAi
+(NOT A REAL HOMEPAGE) 
 
 Ce document servira à donner les grandes lignes directrices du projet de ai/bot pour path of exile.
 Github: https://github.com/verreaultfrank/POE-BotAi
