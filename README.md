@@ -1,8 +1,8 @@
 (NOT A REAL HOMEPAGE) 
 
 Ce document servira à donner les grandes lignes directrices du projet de ai/bot pour path of exile.
-Github: https://github.com/verreaultfrank/POE-BotAi
-Trello: Demandez je vais vous add
+ Github: https://github.com/verreaultfrank/POE-BotAi
+ Trello: Demandez je vais vous add
 
 -------------Idée générale pour le patern du bot-------------
 1. Effectuer analyse du screen shot.
