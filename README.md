@@ -1,8 +1,8 @@
 # POE-BotAi
 
 Ce document servira à donner les grandes lignes directrices du projet de ai/bot pour path of exile.
-Github: 
-Trello(vs êtes admin ne brisez rien plz...): https://trello.com/invite/b/LsuCu4zq/23343d0c35fc2095a3778bca71660878/poe-bot-ai
+Github: https://github.com/verreaultfrank/POE-BotAi
+Trello: Demandez je vais vous add
 
 -------------Idée Générale-------------
 1. Effectuer analyse du screen shot.
@@ -17,7 +17,7 @@ Trello(vs êtes admin ne brisez rien plz...): https://trello.com/invite/b/LsuCu4
 
 
 -------------D'étection mouvements-------------
-1.S'inspirer du blog suivant https://github.com/nicholastoddsmith/poeai
+1. S'inspirer du blog suivant https://github.com/nicholastoddsmith/poeai
 
 
 -------------Personnage-------------
@@ -33,11 +33,11 @@ Trello(vs êtes admin ne brisez rien plz...): https://trello.com/invite/b/LsuCu4
 
 
 -------------Bonnus(À implémenter si on a quelque chose de fonctionnel et que le projet est nice :D)-------------
--Auto update gems
--Auto skill points
--Auto gearing
--Auto skills seting
--Auto selling/keeping stuffs
--Training permanant si possible
--Adapter à plusieurs résolution
--Auto setting des params de poe pour que le bot fonctionnel
+1. Auto update gems
+2. Auto skill points
+3. Auto gearing
+4. Auto skills seting
+5. Auto selling/keeping stuffs
+6. Training permanant si possible
+7. Adapter à plusieurs résolution
+8. Auto setting des params de poe pour que le bot fonctionnel
