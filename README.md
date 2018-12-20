@@ -4,7 +4,7 @@ Ce document servira à donner les grandes lignes directrices du projet de ai/bot
 Github: https://github.com/verreaultfrank/POE-BotAi
 Trello: Demandez je vais vous add
 
--------------Idée Générale-------------
+-------------Idée générale pour le patern du bot-------------
 1. Effectuer analyse du screen shot.
 1.1 Si Rouge ataquer + mettre à jour carte
 1.2 Si pas Rouge analyser mouvements via deux frames
