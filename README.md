@@ -1,8 +1,8 @@
 (NOT A REAL HOMEPAGE) 
 
 Ce document servira à donner les grandes lignes directrices du projet de ai/bot pour path of exile.
- Github: https://github.com/verreaultfrank/POE-BotAi
- Trello: Demandez je vais vous add
+- Github: https://github.com/verreaultfrank/POE-BotAi
+- Trello: Demandez je vais vous add
 
 -------------Idée générale pour le patern du bot-------------
 1. Effectuer analyse du screen shot.
@@ -13,7 +13,7 @@ Ce document servira à donner les grandes lignes directrices du projet de ai/bot
 
 -------------Carte-------------
 1. Se fier à  la map en haut en droit dun frame (analyser avec un réseau)
--On ajoute toujours les objets/monstres/obstacles
+- On ajoute toujours les objets/monstres/obstacles
 
 
 -------------D'étection mouvements-------------
@@ -27,9 +27,9 @@ Ce document servira à donner les grandes lignes directrices du projet de ai/bot
 
 -------------Entrainement-------------
 1. Feeder les info à un réseau qui outputera une décisions selons une action possible
--Verifier si il es possible d'optimiser une fonction de fitness(analyser la performance de différentes fonctions de fitness GENETIC ALGO)
--Params de fonction de fitness : vie, mana, shield, exp, temps d'exploration, dodging(how)
--Genetic algorith pour evolution du reseau de décision
+- Verifier si il es possible d'optimiser une fonction de fitness(analyser la performance de différentes fonctions de fitness GENETIC ALGO)
+- Params de fonction de fitness : vie, mana, shield, exp, temps d'exploration, dodging(how)
+- Genetic algorith pour evolution du reseau de décision
 
 
 -------------Bonnus(À implémenter si on a quelque chose de fonctionnel et que le projet est nice :D)-------------
